@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1640935345 source:c:\users\hog4m\desktop\gameoflife\main.c
+	"GOL_header.h"
+
+1640935211 c:\users\hog4m\desktop\gameoflife\gol_header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+
+1641829014 source:c:\users\hog4m\desktop\conway's gameoflife\main.c
+	"GOL_header.h"
+
+1640935211 c:\users\hog4m\desktop\conway's gameoflife\gol_header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+
